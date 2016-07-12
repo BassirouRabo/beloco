@@ -2,619 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29fa1502-fa59-4171-817c-c5275c83cf9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slides/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slides/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slides/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/45-degree-fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/produits/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/admin-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/bar/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/dark/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/default/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/light/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/az_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/black50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/blizzard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/bright_squares.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/bar/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/dark/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/default/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/light/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/bullets.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/cloth-alike.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/colorpicker_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/custom-header-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/custom-header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/custom_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dark-and-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/dark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/dark.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/dark.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/images/decor_inside.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/images/decor_inside_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/images/decor_testimonial.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/denim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/device.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/fancy_deboss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/images/gradient/g30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/images/gradient/g40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/grain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/gray_jean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/grey-sandbag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headers/header-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/history-thumb-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/history-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/holder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-icons-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-item-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-item-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-item-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-item-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home-concept.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/honey_im_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-user-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-user-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-user-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/kinda-jean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/layout-styles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/linedpaper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/loader2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/bar/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/dark/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/light/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/logo-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-default-slim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-footer-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-footer-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map-bottom-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map-bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map-top-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/office-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/office-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/office-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/office-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/our-office-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/our-office-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/our-office-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/images/phpmailer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/images/phpmailer_mini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/polyester-lite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/pw_maze_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/random_grey_variations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/font/revicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/font/revicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/font/revicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/skin_side_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/images/slider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/small_arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/social-sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/star.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/fonts/star.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/star.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/fonts/star.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/star.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/fonts/star.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/stitched-wool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/stitched_wool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/straws.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/style-switcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/subtle_grunge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/textured_stripes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/timerdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/fonts/times_new_yorker.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video-overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/white-carbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/backgrounds/white-wave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/assets/white50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/wild_oliva.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/patterns/worn_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/wrapping.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/lib/Twitter/Autolink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/Twitter/AutolinkTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/Callback_function_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/DomainKeys_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/extras/EasyPeasyICS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/lib/Twitter/Extractor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/Twitter/ExtractorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/lib/Twitter/HitHighlighter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/Twitter/HitHighlighterTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/tmhOAuth/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/Note_for_SMTP_debugging.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/PHPMailerAutoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/extras/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/tmhOAuth/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/circle-flip-slideshow/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/lib/Twitter/Regex.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/TODO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/TweetPHP.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/scripts/XRegExp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_appearance.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_arrows.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_backface-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_background-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_bars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_border-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/_bourbon-deprecated-upcoming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/_bourbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_box-sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/layouts/_boxed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_carousels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_compact.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_counters.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/layouts/_dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_deprecated-webkit-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/config/_directional.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_featured-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_flex-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_flex-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_font-face.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_font-family.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_gradient-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_grid-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-center.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-clean-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-colored.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-darken-top-border.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-flat-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-full-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-mega-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-narrow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-shop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-signin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-single-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header-transparent.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_headings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/config/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_hidpi-media-query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_history.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_home.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_html5-input-types.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_image-rendering.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/config/_imports.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_inline-block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_keyframes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_linear-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_linear-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_linear-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_maps.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_misc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_modular-scale.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_navs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_page-not-found.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/base/_page-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_parallax.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_perspective.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_placeholder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_popups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_portfolio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_pricing-tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_radial-arg-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_radial-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_radial-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_radial-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_render-gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_retina-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_scroll-top-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_search-results.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_sections.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/helpers/_shape-size-stripper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_sliders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_social-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_sort.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/partials/_team.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_testimonials.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_thumb-info.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_timeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_timing-functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_tint-shade.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_toggles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_transform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/functions/_transition-property-name.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_transition.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/addons/_triangle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/vendor/bourbon/css3/_user-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/config/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_videos.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/gui/_word-rotator.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/bar/bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/beloco.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap-rtl/bootstrap-rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap-rtl/bootstrap-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap-rtl/bootstrap-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/tmhOAuth/cacert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/class.pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/code_generator.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/js/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/common/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/circle-flip-slideshow/css/component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/tmhOAuth/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/contact-form-refresh-captcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/contact-form-verify-captcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/contact-form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/contents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/cssbeautify/cssbeautify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/dark/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skins/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/default/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/example.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/excanvas/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/exceptions.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/extending.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/js/eye.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/fakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/fakesendmail.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/generatedocs.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/gmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/extras/htmlfilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/rtl/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/ie.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jflickrfeed/jflickrfeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-cookie/jquery-cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.appear/jquery.appear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.easing/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/circle-flip-slideshow/js/jquery.flipshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.gmap/jquery.gmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/isotope/jquery.isotope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/jquery.nivo.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.stellar/jquery.stellar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.enablelog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.revolution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.tools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery.validation/jquery.validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/js/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/less/less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/light/light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/mail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/mailchimp/mailchimp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/mailing_list.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/modernizr/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/newsletter-subscribe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nivo-slider/nivo-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/extras/ntlm_sasl_client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.theme.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.theme.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.theme.green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owlcarousel/owl.theme.green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-cz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-dk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-se.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/language/phpmailer.lang-zh_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/phpmailerLangTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/phpmailerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/docs/pop3_article.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/pop_before_smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/presentation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/produits.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/requirejs/requirejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/respond/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/font/revicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/runfakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/twitter-text-php/tests/runtests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/sendmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/settings-ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/scripts/shAutoloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/scripts/shBrushPhp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCore.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/scripts/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shCoreRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/scripts/shLegacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeAppleScript.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/styles/shThemeVisualStudio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/simple-php-captcha/simple-php-captcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/less/skin.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/smtp_check.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/examples/smtp_no_auth.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/fonts/star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/style-switcher.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/style.switcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/test_callback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/test/testbootstrap-dist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/theme-animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/rtl/css/theme-blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/theme-blog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/rtl/css/theme-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/theme-elements.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-shop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/rtl/css/theme-shop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/theme-shop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/rtl/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/theme.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/sass/theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/lib/tmhOAuth/tmhOAuth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/php-mailer/travis.phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/cache/twitter-array.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/twitter-feed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/tweet-php/cache/twitter.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/style-switcher/colorpicker/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/fontawesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vide/vide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/view.contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/view.home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/produits.html" afterPath="$PROJECT_DIR$/produits.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="beloco.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -639,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="100" column="54" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
+            <state vertical-scroll-proportion="-6.0">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -651,9 +42,34 @@
       <file leaf-file-name="produits.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/produits.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37514794">
-              <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
+            <state vertical-scroll-proportion="0.1704142">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presentation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.3333335">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.3333335">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -680,8 +96,8 @@
       <list>
         <option value="$PROJECT_DIR$/index-one-page.html" />
         <option value="$PROJECT_DIR$/index-1.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/presentation.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/produits.html" />
       </list>
@@ -743,20 +159,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="beloco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beloco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beloco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1158,20 +560,28 @@
       <updated>1468353652901</updated>
       <workItem from="1468353655129" duration="4807000" />
       <workItem from="1468358850075" duration="665000" />
-      <workItem from="1468359613427" duration="513000" />
+      <workItem from="1468359613427" duration="926000" />
     </task>
+    <task id="LOCAL-00001" summary="architecture">
+      <created>1468360261111</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468360261111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5985000" />
+    <option name="totallyTimeSpent" value="6398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1180,7 +590,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16749585" sideWeight="0.49624866" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16749585" sideWeight="0.49624866" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliTail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498618" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1193,7 +603,6 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1214,6 +623,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="architecture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1244,6 +657,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,6 +668,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="176" column="92" selection-start-line="176" selection-start-column="92" selection-end-line="176" selection-end-column="92" />
+          <folding>
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1270,27 +690,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/presentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="176" column="92" selection-start-line="176" selection-start-column="92" selection-end-line="176" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7123288">
-          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="54" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
+        <state vertical-scroll-proportion="-6.0">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -1299,8 +726,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/produits.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37514794">
-          <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
+        <state vertical-scroll-proportion="0.1704142">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
